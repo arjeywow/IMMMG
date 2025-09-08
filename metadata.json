@@ -1,0 +1,5 @@
+{
+  "name": "AI Album Cover Generator",
+  "description": "Create a professional, high-resolution 3000x3000 pixel album cover for a song. The cover art is thematically aligned with the song title, and the artist's name, 'ScrapperOnMusic', is prominently displayed.",
+  "requestFramePermissions": []
+}
